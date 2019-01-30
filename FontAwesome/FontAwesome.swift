@@ -61,7 +61,7 @@ public enum FontAwesomeStyle: String {
         case .regular:
             return "Font Awesome 5 Pro-Regular-400"
 				case .light:
-						return "Font Awesome 5 Pro-Light-400"
+						return "Font Awesome 5 Pro-Light-300"
         case .brands:
             return "Font Awesome 5 Brands-Regular-400"
         }
